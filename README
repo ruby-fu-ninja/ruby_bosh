@@ -5,7 +5,7 @@ The RubyBOSH library handles creating and pre-authenticating BOSH streams inside
 
 This method allows you to hide authentication details for your users' XMPP accounts.  
 
-Tested on Rails 2.x with eJabberd 1.2+
+Tested on Rails 3.x with eJabberd 2.1.5
 
 References
 ==========
